@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemplosKradac</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ejemplo1">Ejemplo 1</string>
+    <string name="ejemplo2">Ejemplo 2</string>
+     <string name="ejemplo3">Ejemplo 3</string>
+    <!-- Periodicos de Ecuador -->
+    <string-array name="titles">
+        <item >Universo</item>
+        <item >El Comercio</item>
+        <item >La Hora</item>
+        <item >Hoy</item>
+        <item >Ultimas Noticias</item>
+        <item >El Mercurio</item>
+        <item >Extra</item>
+        <item >Super</item>
+        <item >El Telegrafo</item>
+        <item >La Cronica</item>
+        <item >Centinela</item>
+        </string-array>
+    <string-array name="links">
+         <item >http://www.eluniverso.com</item>
+        <item >http://www.elcomercio.com</item>
+        <item >http://www.lahora.com.ec</item>
+        <item >http://www.hoy.com.ec</item>
+        <item >http://www.ultimasnoticias.com</item>
+        <item >http://www.elmercurio.com.ec</item>
+        <item >http://www.extra.ec</item>
+        <item >http://www.super.com.ec</item>
+        <item >http://www.telegrafo.com.ec</item>
+        <item >http://www.cronica.com.ec</item>
+        <item >http://www.diariocentinela.com.ec</item>
+		</string-array>
+</resources>
